@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/pratapprofile/static/css/main.6b74da77.chunk.css",
+    "main.js": "/pratapprofile/static/js/main.97de0104.chunk.js",
+    "main.js.map": "/pratapprofile/static/js/main.97de0104.chunk.js.map",
+    "runtime-main.js": "/pratapprofile/static/js/runtime-main.3d9e7065.js",
+    "runtime-main.js.map": "/pratapprofile/static/js/runtime-main.3d9e7065.js.map",
+    "static/js/2.1805184c.chunk.js": "/pratapprofile/static/js/2.1805184c.chunk.js",
+    "static/js/2.1805184c.chunk.js.map": "/pratapprofile/static/js/2.1805184c.chunk.js.map",
+    "static/js/3.935bc09e.chunk.js": "/pratapprofile/static/js/3.935bc09e.chunk.js",
+    "static/js/3.935bc09e.chunk.js.map": "/pratapprofile/static/js/3.935bc09e.chunk.js.map",
+    "index.html": "/pratapprofile/index.html",
+    "static/css/main.6b74da77.chunk.css.map": "/pratapprofile/static/css/main.6b74da77.chunk.css.map",
+    "static/js/2.1805184c.chunk.js.LICENSE.txt": "/pratapprofile/static/js/2.1805184c.chunk.js.LICENSE.txt",
+    "static/media/Prataps CV.b7c83db1.pdf": "/pratapprofile/static/media/Prataps CV.b7c83db1.pdf",
+    "static/media/Project.css": "/pratapprofile/static/media/ngo.67bc6ed5.JPG",
+    "static/media/degin.dc3f98cc.JPG": "/pratapprofile/static/media/degin.dc3f98cc.JPG",
+    "static/media/ged.f51f5bfc.jpg": "/pratapprofile/static/media/ged.f51f5bfc.jpg",
+    "static/media/home.80b60240.jpg": "/pratapprofile/static/media/home.80b60240.jpg",
+    "static/media/mernCertificate.43ffb63a.JPG": "/pratapprofile/static/media/mernCertificate.43ffb63a.JPG",
+    "static/media/pdf-icon.eaf4b750.png": "/pratapprofile/static/media/pdf-icon.eaf4b750.png",
+    "static/media/Contact.css": "/pratapprofile/static/media/pratap.8e61613f.jpg",
+    "static/media/Home.css": "/pratapprofile/static/media/pratapparis.a7132c0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9e7065.js",
+    "static/js/2.1805184c.chunk.js",
+    "static/css/main.6b74da77.chunk.css",
+    "static/js/main.97de0104.chunk.js"
+  ]
+}
