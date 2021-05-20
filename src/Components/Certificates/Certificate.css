@@ -1,0 +1,37 @@
+.cert-box {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+.cert-box img {
+  width: 100%;
+  transition: 0.9s;
+}
+.cert-box img:hover {
+  width: 100%;
+  transform: scale(1.1);
+  box-shadow: 5px 5px rgb(228, 228, 228);
+  cursor: pointer;
+}
+
+.modal-body img {
+  text-align: center;
+  width: 100%;
+}
+
+.modal-content {
+  width: 900px;
+  text-align: center;
+  margin-right: auto;
+}
+.cert-box h5 {
+  padding: 20px;
+  text-align: center;
+}
+.cert-box h5:hover {
+  cursor: pointer;
+}
+h1 {
+  text-align: center;
+  padding: 30px;
+}

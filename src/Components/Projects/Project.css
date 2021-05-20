@@ -1,0 +1,125 @@
+.box {
+  background: url("./../../image/ecommerce.JPG");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.9s;
+}
+.box:hover {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5;
+}
+.box2 {
+  background: url("./../../image/ngo.JPG");
+  background-size: 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5;
+}
+.box2:hover {
+  transition: 0.9s;
+  background-size: 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box3 {
+  background: url("./../../image/crm.JPG");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5;
+}
+.box3:hover {
+  transition: 0.9s;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box4 {
+  background: url("./../../image/news.JPG");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5;
+}
+.box4:hover {
+  transition: 0.9s;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box5 {
+  background: url("./../../image/bank.JPG");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5;
+}
+.box5:hover {
+  transition: 0.9s;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box6 {
+  background: url("./../../image/course.JPG");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5;
+}
+.box6:hover {
+  transition: 0.9s;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.box-contain {
+  display: flex;
+  /* border: 1px solid black; */
+  margin: auto;
+  justify-content: center;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+.box-image {
+  width: 100%;
+}
+.bx {
+  width: 200px;
+  height: 200px;
+  /* border: 1px solid black; */
+  margin: 20px;
+  box-shadow: 5px 5px rgba(129, 129, 129, 0.2);
+}
+
+.bx h3 {
+  z-index: 2;
+  padding: 20px;
+  text-align: center;
+  font-size: 10px;
+}
+.outer {
+  text-align: center;
+  transition: 0.9;
+}
+.outer h3 {
+  font-size: 16px;
+}
+h1 {
+  font-size: 24px;
+  padding: 10px;
+}
+.titlee {
+  text-align: center;
+}
+.bx:hover {
+  transform: scale(1.1);
+}
+.background {
+  background-color: rgb(250, 244, 244);
+  color: rgb(56, 56, 56);
+  height: 94vh;
+}

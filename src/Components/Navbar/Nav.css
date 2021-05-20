@@ -1,0 +1,23 @@
+nav ul li {
+  list-style: none;
+  display: inline;
+  padding: 30px;
+
+  color: #fff;
+  cursor: pointer;
+}
+nav ul li a:hover {
+  color: rgb(56, 200, 236);
+}
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  transition: 0.5s;
+}
+nav {
+  background-color: rgb(31, 31, 31);
+  text-align: center;
+  padding: 10px;
+  position: sticky;
+  top: 0px;
+}
