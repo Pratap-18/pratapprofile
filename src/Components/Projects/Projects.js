@@ -18,7 +18,9 @@ export function Projects() {
                 <div className="box-contain">
                     <div className="outer">
 
-                        <div className="box bx">
+                        <div className="box bx"
+                            onClick={event => window.open(" https://pratap-18.github.io/ecommerce/", "_blank")}
+                        >
                             {/* <img src={SiteOne} className="box-image" /> */}
                         </div>
                         <h3>E-commerce</h3>
@@ -46,22 +48,37 @@ export function Projects() {
 
                     <div className="outer">
 
-                        <div className="box4 bx">
+                        <div className="box4 bx"
+                            onClick={event => window.open("  https://pratap-18.github.io/News/", "_blank")}
+
+                        >
 
                         </div>
                         <h3>News</h3>
                     </div>
                     <div className="outer">
 
-                        <div className="box5 bx">
+                        <div className="box5 bx" onClick={event => window.open("https://pratap-18.github.io/Bank/", "_blank")}>
 
                         </div>
                         <h3>bank</h3>
                     </div>
+                    <div className="outer">
+
+
+                        <div className="box7 bx"
+                            onClick={event => window.open("https://pratap-18.github.io/pratapstravel/", "_blank")}
+                        >
+
+                        </div>
+                        <h3>Travel</h3>
+                    </div>
 
                     <div className="outer">
 
-                        <div className="box6 bx">
+                        <div className="box6 bx"
+                            onClick={event => window.open("https://group32-store.herokuapp.com//", "_blank")}
+                        >
 
                         </div>
                         <h3>Course</h3>
