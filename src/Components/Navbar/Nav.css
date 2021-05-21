@@ -31,3 +31,7 @@
     display: block;
   }
 }
+
+#navbarSupportedContent {
+  margin-left: 20%;
+}
