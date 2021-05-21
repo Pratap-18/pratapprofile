@@ -119,7 +119,7 @@ h1 {
   transform: scale(1.1);
 }
 .background {
-  background-color: rgb(250, 244, 244);
+  /* background-color: rgb(250, 244, 244); */
   color: rgb(56, 56, 56);
   height: 94vh;
 }

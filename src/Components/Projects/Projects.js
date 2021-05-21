@@ -4,6 +4,10 @@ import './Project.css'
 
 
 export function Projects() {
+    const handleClick = () => {
+        console.log('clicked')
+
+    }
     return (
         <div className="background">
 
@@ -22,7 +26,11 @@ export function Projects() {
                     </div>
                     <div className="outer">
 
-                        <div className="box2 bx">
+                        <div className="box2 bx"
+                            // onClick={event => window.location.href = 'https://pratap-18.github.io/myngo/index.html'}
+                            onClick={event => window.open("https://pratap-18.github.io/myngo/index.html", "_blank")}
+
+                        >
 
                         </div>
                         <h3>NGO</h3>
