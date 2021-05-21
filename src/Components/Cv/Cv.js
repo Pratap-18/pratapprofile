@@ -12,7 +12,7 @@ export function Cv() {
             <div className="container">
                 <div className="cv-box">
 
-                    <a href={cv} download="cv"> <img src={pdf} />
+                    <a href={cv} download="cv"> <img src={pdf} alt="cv" />
                         <p>DOWNLOAD MY CV</p>
                     </a>
 

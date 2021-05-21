@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import Image from './../../image/home.jpg'
+// import Image from './../../image/home.jpg'
 import { useHistory } from "react-router-dom";
 
 

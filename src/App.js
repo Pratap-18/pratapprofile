@@ -1,7 +1,7 @@
 import { Contacts } from "./Components/Contacts/Contacts";
 import { Home } from "./Components/Home/Home";
 import { Projects } from "./Components/Projects/Projects";
-import { BrowserRouter, Route, Link } from 'react-router-dom'
+import { BrowserRouter, Route } from 'react-router-dom'
 import Nav from "./Components/Navbar/Nav";
 import './App.css'
 import { Cv } from "./Components/Cv/Cv";
@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Nav />
-        <Route exact path="/"><Home /></Route>
+        <Route exact path="/pratapprofile"><Home /></Route>
         <Route path="/projects"><Projects /></Route>
         <Route path="/contact"><Contacts /></Route>
         <Route path="/cv"><Cv /></Route>
