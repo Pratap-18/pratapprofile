@@ -1,91 +1,92 @@
 .box {
   background: url("./../../image/ecommerce.JPG");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.9s;
 }
 .box:hover {
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.5;
 }
 .box2 {
   background: url("./../../image/ngo.JPG");
-  background-size: 300px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+
   transition: 0.5;
 }
 .box2:hover {
   transition: 0.9s;
-  background-size: 300px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .box3 {
   background: url("./../../image/crm.JPG");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.5;
 }
 .box3:hover {
   transition: 0.9s;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .box4 {
   background: url("./../../image/news.JPG");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.5;
 }
 .box4:hover {
   transition: 0.9s;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .box5 {
   background: url("./../../image/bank.JPG");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.5;
 }
 .box5:hover {
   transition: 0.9s;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .box6 {
   background: url("./../../image/course.JPG");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.5;
 }
 .box6:hover {
   transition: 0.9s;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .box7 {
   background: url("./../../image/travel.JPG");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.5;
 }
 .box7:hover {
   transition: 0.9s;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
