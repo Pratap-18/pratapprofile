@@ -27,11 +27,28 @@
   top: 0px;
 }
 @media screen and (max-width: 600px) {
-  nav ul li {
+  /* nav ul li {
     display: block;
+  } */
+  #navbarSupportedContent {
+    margin-left: 0%;
+  }
+  .bg-light {
+    background-color: #bbbbbb !important;
+    text-align: center !important;
+    padding: 10px;
+    position: sticky;
+    top: 0px;
+  }
+  .nav-item .nav-link {
+    text-decoration: none;
+    color: rgb(41, 39, 39) !important;
+    transition: 0.5s;
+    text-align: center !important;
+    padding: 0px 100px;
   }
 }
 
 #navbarSupportedContent {
-  margin-left: 20%;
+  margin-left: auto;
 }

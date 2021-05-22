@@ -124,6 +124,7 @@
 h1 {
   font-size: 24px;
   padding: 10px;
+  z-index: 1;
 }
 .titlee {
   text-align: center;
@@ -134,6 +135,8 @@ h1 {
 }
 .background {
   /* background-color: rgb(250, 244, 244); */
-  color: rgb(56, 56, 56);
-  height: 94vh;
+  color: rgb(248, 248, 248);
+  height: 100%;
+  background: linear-gradient(rgb(6 10 12 / 90%), rgb(12 18 27 / 90%)),
+    url("./../../image/laptop-1209008_1280.jpg");
 }

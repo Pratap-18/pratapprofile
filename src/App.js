@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <Nav />
+        <Nav className="nav" />
         <Route exact path="/pratapprofile"><Home /></Route>
         <Route path="/projects"><Projects /></Route>
         <Route path="/contact"><Contacts /></Route>
