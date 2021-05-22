@@ -10,7 +10,7 @@
 .cert-box img:hover {
   width: 100%;
   transform: scale(1.1);
-  box-shadow: 5px 5px rgb(228, 228, 228);
+  box-shadow: 1px 1px rgb(228, 228, 228);
   cursor: pointer;
 }
 
@@ -34,4 +34,11 @@
 h1 {
   text-align: center;
   padding: 30px;
+}
+.full {
+  background: linear-gradient(rgb(6 10 12 / 60%), rgb(12 18 27 / 90%)),
+    url("./../../image/library-869061_1920.jpg");
+  background-size: COVER;
+  height: 100vh;
+  color: rgb(247, 234, 234);
 }
