@@ -83,6 +83,17 @@ export function Projects() {
                         </div>
                         <h3>Course</h3>
                     </div>
+
+
+                    <div className="outer">
+
+                        <div className="box8 bx"
+                            onClick={event => window.open("https://pratap-18.github.io/DrumMachine/", "_blank")}
+                        >
+
+                        </div>
+                        <h3>Drum machine</h3>
+                    </div>
                 </div>
 
             </div >

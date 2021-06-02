@@ -90,6 +90,19 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+.box8 {
+  background: url("./../../image/drummachine.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5;
+}
+.box8:hover {
+  transition: 0.9s;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 .box-contain {
   display: flex;
   /* border: 1px solid black; */
